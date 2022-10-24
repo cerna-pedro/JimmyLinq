@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JimmyLinq
 {
-    internal class Comic
+    public class Comic
     {
         public static readonly IEnumerable<Review> Reviews = new[]
         {

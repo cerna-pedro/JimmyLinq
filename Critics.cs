@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JimmyLinq
 {
-    internal enum Critics
+    public enum Critics
     {
         MuddyCritic,
         RottenTornadoes,
